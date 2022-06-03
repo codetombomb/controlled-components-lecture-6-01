@@ -61,15 +61,15 @@
             
             Goals - We want to have a form:
                 
-                ![Screen Shot 2022-06-01 at 11.07.31 AM.png](./Export-86abd620-67c2-47fd-8900-1de46a68a2a6/Lecture%206%2001%20-%20React%20Forms%20and%20Intro%20to%20Hooks%204a3566bfe45d4ae7a39ebef23c6a1465/Screen_Shot_2022-06-01_at_11.07.31_AM.png)
+                ![Screen Shot 2022-06-01 at 11.07.31 AM.png](Lecture%206%2001%20-%20React%20Forms%20and%20Intro%20to%20Hooks%204a3566bfe45d4ae7a39ebef23c6a1465/Screen_Shot_2022-06-01_at_11.07.31_AM.png)
                 
                 Then, we want to be able to fill out our form
                 
-                ![Screen Shot 2022-06-01 at 11.08.53 AM.png](./Export-86abd620-67c2-47fd-8900-1de46a68a2a6/Lecture%206%2001%20-%20React%20Forms%20and%20Intro%20to%20Hooks%204a3566bfe45d4ae7a39ebef23c6a1465/Screen_Shot_2022-06-01_at_11.08.53_AM.png)
+                ![Screen Shot 2022-06-01 at 11.08.53 AM.png](Lecture%206%2001%20-%20React%20Forms%20and%20Intro%20to%20Hooks%204a3566bfe45d4ae7a39ebef23c6a1465/Screen_Shot_2022-06-01_at_11.08.53_AM.png)
                 
                 Then we want to be able to render a new note component:
                 
-                ![Screen Shot 2022-06-01 at 11.08.16 AM.png](./Export-86abd620-67c2-47fd-8900-1de46a68a2a6/Lecture%206%2001%20-%20React%20Forms%20and%20Intro%20to%20Hooks%204a3566bfe45d4ae7a39ebef23c6a1465/Screen_Shot_2022-06-01_at_11.08.16_AM.png)
+                ![Screen Shot 2022-06-01 at 11.08.16 AM.png](Lecture%206%2001%20-%20React%20Forms%20and%20Intro%20to%20Hooks%204a3566bfe45d4ae7a39ebef23c6a1465/Screen_Shot_2022-06-01_at_11.08.16_AM.png)
                 
             
             - App
@@ -290,7 +290,7 @@
         - Think of it as `DOMContentLoaded` with superpowers.
         - **Build out button counter and name input**
             
-            ![Screen Shot 2022-06-01 at 11.35.54 AM.png](./Export-86abd620-67c2-47fd-8900-1de46a68a2a6/Lecture%206%2001%20-%20React%20Forms%20and%20Intro%20to%20Hooks%204a3566bfe45d4ae7a39ebef23c6a1465/Screen_Shot_2022-06-01_at_11.35.54_AM.png)
+            ![Screen Shot 2022-06-01 at 11.35.54 AM.png](Lecture%206%2001%20-%20React%20Forms%20and%20Intro%20to%20Hooks%204a3566bfe45d4ae7a39ebef23c6a1465/Screen_Shot_2022-06-01_at_11.35.54_AM.png)
             
             - code
                 
@@ -324,11 +324,11 @@
         
         - We can run into a problem with this - The Infinite Loop `useEfffect`
             
-            ![Untitled](./Export-86abd620-67c2-47fd-8900-1de46a68a2a6/Lecture%206%2001%20-%20React%20Forms%20and%20Intro%20to%20Hooks%204a3566bfe45d4ae7a39ebef23c6a1465/Untitled.png)
+            ![Untitled](Lecture%206%2001%20-%20React%20Forms%20and%20Intro%20to%20Hooks%204a3566bfe45d4ae7a39ebef23c6a1465/Untitled.png)
             
         - Stopping the infinite loop `useEffect`
             
-            ![Untitled](./Export-86abd620-67c2-47fd-8900-1de46a68a2a6/Lecture%206%2001%20-%20React%20Forms%20and%20Intro%20to%20Hooks%204a3566bfe45d4ae7a39ebef23c6a1465/Untitled%201.png)
+            ![Untitled](Lecture%206%2001%20-%20React%20Forms%20and%20Intro%20to%20Hooks%204a3566bfe45d4ae7a39ebef23c6a1465/Untitled%201.png)
             
         - Dependency array
             - We have control over when the `useEffect` hook fires
