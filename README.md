@@ -56,10 +56,10 @@
         - **ASK -** Why do we need a controlled form in React?
             - Answer
                 - [With a controlled component, the input’s value is always driven by the React state. While this means you have to type a bit more code, you can now pass the value to other UI elements too, or reset it from other event handlers.](https://reactjs.org/docs/forms.html#:~:text=With%20a%20controlled%20component%2C%20the%20input%E2%80%99s%20value%20is%20always%20driven%20by%20the%20React%20state.%20While%20this%20means%20you%20have%20to%20type%20a%20bit%20more%20code%2C%20you%20can%20now%20pass%20the%20value%20to%20other%20UI%20elements%20too%2C%20or%20reset%20it%20from%20other%20event%20handlers.)
+
         - Walkthrough
             - What kind of components we might need to accomplish this?
-            
-            Goals - We want to have a form:
+             Goals - We want to have a form:
                 
                 ![Screen Shot 2022-06-01 at 11.07.31 AM.png](./Export-86abd620-67c2-47fd-8900-1de46a68a2a6/Lecture%206%2001%20-%20React%20Forms%20and%20Intro%20to%20Hooks%204a3566bfe45d4ae7a39ebef23c6a1465/Screen_Shot_2022-06-01_at_11.07.31_AM.png)
                 
